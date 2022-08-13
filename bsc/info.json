@@ -1,11 +1,11 @@
 {
- "name": "OPENFIRE",
- "website": "https://openfire.plus",
- "description": "OPENFIRE is the next generation of virtualized permeable Internet application platform and digital creation of full index, which creates a 1:1 interaction between the real world and the real world, and affects the real world and the earth through the whole society.",
- "explorer": "https://bscscan.com/token/0xa6660E62c223Df2D9Aff0Ba188f1371087fa3Dd6",
- "type": "BEP20",
- "symbol": "OFEO",
- "decimals": 18,
- "status": "active",
- "id": "0xa6660E62c223Df2D9Aff0Ba188f1371087fa3Dd6"
+  "name": "Apollo",
+  "website": "https://www.apollo-dao.com/",
+  "description": "Apollo is the God of light and prophecy in ancient Greek mythology, also known as the sun god.",
+  "explorer": "https://bscscan.com/token/0x5cE3b44856ff8385EA8642d0e604a3E02150bb8D ",
+  "type": "BEP20",
+  "symbol": "APLD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5cE3b44856ff8385EA8642d0e604a3E02150bb8D"
 }
